@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Xich
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 331f6118fe545194ba16581b663f6c08, type: 3}
+  - {fileID: 21300000, guid: 5908f83a12795be46b285e0cedea8097, type: 3}
+  - {fileID: 21300000, guid: aeb9a7b699d6d71429f263ea2b2b8405, type: 3}
+  - {fileID: 21300000, guid: de656e751eef7864ab38fc425775dfd2, type: 3}
+  - {fileID: 21300000, guid: 3d2e2e87985dc7f41873066782ac8462, type: 3}
+  - {fileID: 21300000, guid: d04f49f928980aa4ea54de43bf2c5d00, type: 3}
+  - {fileID: 21300000, guid: 15153019991a3344882b19e43c5522d6, type: 3}
+  - {fileID: 21300000, guid: ce36e9aa6b44b3747b4e419e96e4cc9e, type: 3}
+  - {fileID: 21300000, guid: 5a1826e5562f1a34bb33c1da8d17eba5, type: 3}
+  - {fileID: 21300000, guid: 8365b7879c0bf084583da46431c14aca, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

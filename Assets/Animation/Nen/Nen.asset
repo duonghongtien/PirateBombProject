@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Nen
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d55dabaa9b19ce84a95e75a39236594e, type: 3}
+  - {fileID: 21300000, guid: dd5c8c13347fa8a4dbc50b5a3690f03d, type: 3}
+  - {fileID: 21300000, guid: d92041ef357e85643bde8b0f4f12fa6c, type: 3}
+  - {fileID: 21300000, guid: 14d37361a459cc146b0f7b95842fcae0, type: 3}
+  - {fileID: 21300000, guid: da83a5f976726f94f82693eac4cf8017, type: 3}
+  - {fileID: 21300000, guid: c6b63a005195c1e449b82960f384f0cb, type: 3}
+  - {fileID: 21300000, guid: e1ceae2741ae1a44cb9561d73186ea23, type: 3}
+  - {fileID: 21300000, guid: 15e4c47029de540439548de49e19296f, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
